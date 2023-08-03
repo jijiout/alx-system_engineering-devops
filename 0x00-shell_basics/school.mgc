@@ -1,2 +1,2 @@
-0 string SCHOOL school data
-! :mime school
+#!bin/bash
+mv [A-Z]* /tmp/u
